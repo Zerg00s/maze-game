@@ -1,5 +1,5 @@
 # pip install pygame
-# pip install pyautoguif
+# pip install pyautogui
 import pygame
 import datetime
 from datetime import timedelta
