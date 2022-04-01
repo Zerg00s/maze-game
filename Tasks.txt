@@ -3,7 +3,8 @@ Ask a player to provide an ID
 Show time and score outside the game map.
 
 Create a file that contains stats for the player
-- Player ID (number)
-- Time
-- Attempts
+PlayerID	
+Attempts	
+Time	
+Date
 
